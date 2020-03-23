@@ -8,5 +8,5 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(move)
-  puts.converted_input = input_to_index(user_input)
+  puts.converted_input = input_to_index(5 + 1)
 end
